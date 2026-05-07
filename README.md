@@ -40,12 +40,14 @@ QRONOS/
 git clone https://github.com/divi1234-ops/QRONOS.git
 ````
 #BACKEND SETUP
+
 cd BACKEND
 npm install
 npm start
 
 
 #FRONTEND SETUP
+
 cd FRONTEND
 npm install
 npm start
